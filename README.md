@@ -7,7 +7,7 @@ And Provides a graph for tarif vs load factor for proper understanding of data
 
 For running the code 
 one must have installed python any version more than 3.5, 
-and download mathplot lib using pip command in command prompt
+and download mathplot lib using pip command in command prompt ( pip install matplotlib )
 
 All the code in this repositry is made
 by the members of team-Parasmani,Amit,Rahul,Dheeraj and Prashant
